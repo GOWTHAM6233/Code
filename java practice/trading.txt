@@ -1,0 +1,7 @@
+open intrest 
+Last traded price 
+intrinsick value 
+extrinsic value 
+
+
+
