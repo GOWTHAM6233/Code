@@ -1,0 +1,15 @@
+1.<h1>
+2.<a href="link">Words</a>
+3.<img src="image_link" alt="The comment" widht="100px">
+4.<br>
+5.<center> </center>
+6.<ol> 
+   <li>ordered list</ol>
+  </ol> 
+7.<ul> 
+   <li>ordered list</ol>
+  </ul>   
+8.<iframe src="another site link></iframe> ---------It give the access of another site in our website
+9.<hr>    --------hr means horizontal rule
+10.<link> rel="icon" href="source lilnk"
+11.lorem(random paragrapph)

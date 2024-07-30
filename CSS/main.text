@@ -1,0 +1,75 @@
+html boilerplate:
+
+CSS can be added to HTML documents in 3 ways:
+1.inline CSS
+2.Internal CSS
+3.External CSS
+
+
+Selectors:
+   *element Selectors
+   *class Selectors
+   *id Selectors
+   *universal selector
+
+CSS box model:
+    content,padding,border,margin
+-------------------------------------------------------------------------
+text-align:center;
+<span>How are you </span>-----> this tag width size is only the size of the given words. 
+display:block;     --------->this takes the entirwe width of this letter
+display:inline;     -------->this takes only the size  of the content,"also we cannot set width & block for that given letters;
+display:inline-block;
+
+
+<div>Hello</div>
+         display:flex;
+        justify-content:center;   (these two is alighn the div tag in center)
+
+
+
+<nav> </nav> (its also container, just understanding the navigation)
+
+li:hover{
+    color:white;   ------>(whenever we drag over the li content it changes the color of the content )
+    cursor:pointer;   ------>(it uses the curser of hand type)
+}
+
+//border:
+    border:1px;
+    border-color:black;
+    border-style: solid;
+         (or)
+   border:solid black 2px;      
+
+//*Flex:
+
+flex-direction;
+      *defaultly the flex direction is row.
+   flex-direction:column;
+        This line adds the flex direction to column.   
+flex-wrap:wrap;
+
+
+justify-content:center; --------->(it aligns the element center)
+justify-content:flex-start;------>(the elements at starting width)
+justify-content:flex-end;--------->(The elemnts arranged in end of the with)
+justify-content:space-around; ---->(equal space around between the element)
+justify-content:space-between;
+
+Flex MAIN AXIS and CROSS AXIS:
+     *If flex direction is row,then the "Main axis" is row and the "Cross axis" is column.
+     *Main axis-->justify;
+     *Cross axis-->align-items;
+
+//*css positioning:
+
+   position:static;------>(we cannot modify the position of the object)
+   position:relative;----->(we can modify the position of the image)
+
+  "position: absolute;"
+           * By using "position: absolute;"you can precisely control the placement of elements on your web page. 
+   "position:fixed;"
+           *Using position: fixed; is particularly useful for creating elements like sticky headers, footers, sidebars, or floating action buttons that need to remain visible at all times.
+   "position:sticky"
+           *.sticky-box: This element is given "position: sticky;" and "top: 0;". It will stick to the top of the viewport when you scroll past it. If you scroll back up, it will return to its original position.     

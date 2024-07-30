@@ -1,0 +1,45 @@
+/* div{
+    background-color: greenyellow;
+    flex-wrap:wrap;
+    display:flex;
+    
+    
+   
+    
+}
+h1{
+    background-color: black;
+    margin:2px;
+    color:white;
+    flex-basis:24%;
+    flex-grow:1;
+}
+ ----------------------------------------------------------------------*/
+ body{
+    background-color: aqua;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .one{
+    background-color:black;   
+    height:100px;
+    width:100px; 
+    position: relative;
+    top:50%;
+    bottom:50%;
+    left:50%;
+    Right:50%;
+
+
+ }
+ div{
+    background-color:yellow;
+    margin:6px;
+    color:black;
+    padding:5px;
+ 
+    
+ }

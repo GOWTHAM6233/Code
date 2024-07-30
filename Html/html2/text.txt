@@ -1,0 +1,22 @@
+1.<table border="1">
+2.<table>
+3.<tr>table Row</tr>
+4.<td>(table data)---for datble column
+5.<form>
+<td>Name:</td> <td> <input <input type="text" placeholer="Enter your Name" > </td>
+7.<select> 
+8.<option>
+
+
+
+Anchor tag <a>:
+   1.draggable:
+   <a draggable=true>The link is daggable</a>
+
+     
+File path:
+    *Absolute file path(c:\users\gowth\photo.png)
+    *Relative file path(\gowth\photo.png)
+     
+     ../essay.docx
+     ./dog.png

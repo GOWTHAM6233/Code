@@ -1,0 +1,10 @@
+*{
+    justify-content:flex-start;
+    
+}
+.n1{
+    color:red;
+}
+.n1:hover{
+    color:black;
+}
